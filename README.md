@@ -1,10 +1,10 @@
 ## PKU-PHY 参考书评测平台
 
-## [直接进入项目以阅览所有书评](https://github.com/phy-pku-xsb/books)  
+### [直接进入项目以阅览所有书评](https://github.com/phy-pku-xsb/books)  
   
   
 
-## 项目简介
+### 项目简介
 
 这是一个受隔壁物理系的教材介绍手册《兵器全库》的启发后，由学术实践部发起的公开项目。
 
