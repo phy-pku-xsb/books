@@ -1,2 +1,2 @@
 # books
-PKU PHY 参考书评测项目
+PKU-PHY 参考书评测项目
