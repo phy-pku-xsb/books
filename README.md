@@ -12,7 +12,10 @@
 ```markdown
 senpaiphy@gmail.com
 ```
-2) （推荐）直接使用GitHub提交：  
+我们在审核后会帮您把书评添加到项目中。  
+
+2) （推荐）直接使用GitHub提交： 
+  
 Step 1: 点击左侧的[View the Project on Github](https://github.com/phy-pku-xsb/books)  
 Step 2: 登陆您的github账号，并在右上角选择Fork本项目  
 Step 3: 在您创建的副本中把书评Upload到对应的文件夹中  
