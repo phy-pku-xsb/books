@@ -8,11 +8,14 @@
 ### 如何提交书评
 
 您可以选择两种方法：  
-1) 如果你没有github账号，或只是太懒，可以将书评发送至邮箱：
+1) 如果你没有GitHub账号，或只是太懒，可以将书评发送至邮箱：
 ```markdown
 senpaiphy@gmail.com
 ```
-2) （推荐）直接使用github提交：
-......
+2) （推荐）直接使用GitHub提交：  
+Step 1: 点击左侧的[View the Project on Github](https://github.com/phy-pku-xsb/books)  
+Step 2: 登陆您的github账号，并在右上角选择Fork本项目  
+Step 3: 在您创建的副本中把书评Upload到对应的文件夹中
+Step 4: 点击New Pull Request，提交合并申请
 
 
