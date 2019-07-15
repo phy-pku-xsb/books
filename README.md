@@ -1,6 +1,6 @@
 ## PKU-PHY 参考书评测平台
 
-### [若只阅览，请点此跳转](https://github.com/phy-pku-xsb/books)  
+### [若只阅览书评，请点此跳转](https://github.com/phy-pku-xsb/books)  
   
   
 
