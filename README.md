@@ -8,13 +8,13 @@
 ### 如何提交书评
 
 您可以选择两种方法：  
-1) 如果你没有GitHub账号，或只是太懒，可以将书评发送至邮箱：
+1.如果你没有GitHub账号，或只是太懒，可以将书评发送至邮箱：
 ```markdown
 senpaiphy@gmail.com
 ```
 我们在审核后会帮您把书评添加到项目中。  
 
-2) （推荐）直接使用GitHub提交： 
+2.（推荐）直接使用GitHub提交： 
   
 Step 1: 点击左侧的[View the Project on Github](https://github.com/phy-pku-xsb/books)  
 Step 2: 登陆您的github账号，并在右上角选择Fork本项目  
