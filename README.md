@@ -12,7 +12,7 @@
 ```markdown
 senpaiphy@gmail.com
 ```
-2) （推荐）使用github提交：
+2) （推荐）直接使用github提交：
 ......
 
 
